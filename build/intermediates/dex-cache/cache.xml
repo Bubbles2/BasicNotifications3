@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/donnchafinlaypj/Desktop/AndroidPerso/BasicNotifications3/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/donnchafinlaypj/Desktop/AndroidPerso/BasicNotifications3/Application/build/intermediates/pre-dexed/debug/classes-cb053201cd26bdd541f3502d0d12d9189947af17.jar" />
+    </item>
+    <item
+        jar="/Users/donnchafinlaypj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/donnchafinlaypj/Desktop/AndroidPerso/BasicNotifications3/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-ebf21f80cb5fe416850d8b02afbfb5e97a771495.jar" />
+    </item>
+    <item
+        jar="/Users/donnchafinlaypj/Desktop/AndroidPerso/BasicNotifications3/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/donnchafinlaypj/Desktop/AndroidPerso/BasicNotifications3/Application/build/intermediates/pre-dexed/debug/classes-da44a8c9ff3a432860cb34aeb97fe8fb8297d7fd.jar" />
+    </item>
+    <item
+        jar="/Users/donnchafinlaypj/Desktop/AndroidPerso/BasicNotifications3/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/donnchafinlaypj/Desktop/AndroidPerso/BasicNotifications3/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-358fe9f59db45cb425c215572edcd5baacf4bf33.jar" />
+    </item>
+    <item
+        jar="/Users/donnchafinlaypj/Desktop/AndroidPerso/BasicNotifications3/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3713f30726299231eddfb206043ebb72a2519b6f">
+        <dex dex="/Users/donnchafinlaypj/Desktop/AndroidPerso/BasicNotifications3/Application/build/intermediates/pre-dexed/debug/classes-88863b94a6c1334b53a79d2e83f6b44debf9ad47.jar" />
+    </item>
+
+</items>
